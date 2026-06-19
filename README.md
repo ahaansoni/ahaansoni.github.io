@@ -4,9 +4,9 @@
 
 I build large-scale backend systems for **banking, payments, IoT, and consumer platforms**. Five years across event-driven architectures, distributed systems, and compliance-grade backend services.
 
-🌐 **Portfolio:** [ahaan-2618.github.io](https://ahaan-2618.github.io) _(or your custom domain once set up)_
+🌐 **Portfolio:** [ahaansoni.github.io](https://ahaansoni.github.io) _(or your custom domain once set up)_
 📫 **Reach me:** ahaaansoni@gmail.com
-🔗 **LinkedIn:** [linkedin.com/in/ahaansoni2618](https://linkedin.com/in/ahaansoni2618)
+🔗 **LinkedIn:** [linkedin.com/in/ahaansoni](https://linkedin.com/in/ahaansoni)
 
 ---
 
